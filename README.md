@@ -5,7 +5,7 @@
 This work has been published in Information Processing & Management journal.
 The title of the paper is "Vision transformer attention with multi-reservoir echo state network for anomaly recognition"
 
-Required packages
+# Required packages
 
 Python: Python 3.6 or higher
 NumPy: NumPy (Recommended version: 1.19.5 or higher)
